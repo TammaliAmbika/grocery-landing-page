@@ -21,15 +21,12 @@ const Hero = () => {
         </div>
         <span className="trust-text">Trusted by thousands of healthy families</span>
       </div>
-
       <h1>The Safest Way to<br/>Shop for Groceries</h1>
-      
       <p>
         Use the Olive Food Scanner App to Instantly Eliminate<br/>
         Harmful Ingredients from Your Family's Diet and Get<br/>
         Expert-Backed Food Insights
       </p>
-
       <div className="hero-actions">
         <button className="btn-apple">
           <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">

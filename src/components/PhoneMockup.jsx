@@ -58,7 +58,6 @@ const PhoneMockup = () => {
                 "This product's low score mainly comes from the processed sugars, like Honey and brown sugar, which can impact your family's health when consumed frequently, especially for kids who are still developing. Additionally, there are several additives that aren't ideal for your goal of avoiding processed foods, making this a choice to consider more carefully."
               </p>
             </div>
-            
             <div style={{ padding: '0 1.5rem', marginTop: '1.5rem' }}>
                <h3 style={{ fontSize: '0.9rem', fontWeight: '700' }}>Breakdown</h3>
                <div style={{ height: '40px', background: '#f8fafc', borderRadius: '8px', marginTop: '8px' }}></div>
